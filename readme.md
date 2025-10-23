@@ -1,1 +1,1 @@
-![LOGO](https://github.com/Mustafa-Bugra-Babuccu/Inntogo/blob/main/logo.png)
+![LOGO](https://github.com/Mustafa-Bugra-Babuccu/Inntogo/blob/main/logo.png =200x150)
